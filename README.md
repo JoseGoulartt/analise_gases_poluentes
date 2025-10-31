@@ -52,6 +52,12 @@ Resultados Esperados:
 
   Possíveis hipóteses a partir dos dados observados.
 
+Base de Dados retirada da plataforma SEEG.
+
+O SEEG é a principal plataforma independente de monitoramento de emissões de gases de efeito estufa do Brasil. Oferece estimativas anuais para todos os setores da economia, apoiando políticas públicas de mitigação e garantindo transparência à sociedade sobre as trajetórias de redução de emissões do país.
+
+Link: https://www.sieg.com/?utm_source=google&utm_medium=cpc&utm_campaign=institucional_sieg_search&utm_content=507193632169&utm_term=sieg&gad_source=1&gad_campaignid=12566662737&gbraid=0AAAAADdDcDDXAfuhIJQWYXTnS_sZekUY5&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlD6AAdvBjjl3E6b3ASNQ0GXm_W7YHIvigPxJOn1wPW8Nw6O0UCHtjcaApVKEALw_wcB](https://seeg.eco.br/
+
 Contato
 
 José Goulart

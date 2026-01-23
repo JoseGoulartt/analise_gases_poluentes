@@ -1,66 +1,104 @@
-# analise_gases_poluentes
-Analise dos gases poluentes nos Estados brasileiros até o ano de 2021.
+Análise de Emissões de Gases Poluentes nos Estados Brasileiros (até 2021)
 
-# Análise dos Gases Poluentes nos Estados Brasileiros até o Ano de 2021  
-Repositório de: José Goulart  
-Link do repositório: https://github.com/JoseGoulartt/analise_gases_poluentes
+📌 Visão Geral
 
-## Visão Geral  
-Este projeto realiza uma análise exploratória sobre a emissão de gases poluentes nos estados brasileiros até o ano de 2021. O objetivo é identificar padrões regionais, comparar estados entre si e visualizar tendências ao longo do tempo.
+Este projeto realiza uma análise exploratória de dados (EDA) sobre as emissões de gases poluentes nos estados brasileiros até o ano de 2021, utilizando dados públicos do SEEG.
+O objetivo é identificar padrões regionais, comparar estados e analisar tendências temporais, gerando insights que podem apoiar estudos ambientais e a formulação de políticas públicas.
 
-## Objetivos  
-- Compilar e tratar dados sobre emissões de gases poluentes em nível estadual no Brasil.  
-- Aplicar técnicas de análise de dados (limpeza, agregação, visualização) utilizando Python e pandas.  
-- Gerar insights que possam auxiliar pesquisas ou políticas públicas ambientais.  
-- Documentar o processo e tornar o código acessível para continuidade ou replicação.
+🎯 Objetivos do Projeto
 
-## Tecnologias Utilizadas  
-- Python (versão compatível)  
-- Biblioteca pandas para manipulação de dados  
-- Jupyter Notebook (`PANDAS2.ipynb`) como ambiente interativo de análise  
-- Visualizações (por exemplo, matplotlib/seaborn — se aplicadas)  
-- Licença: CC0 1.0 (domínio público)  
+Realizar tratamento e limpeza de dados ambientais em nível estadual
 
-## Estrutura do Repositório  
-/analise_gases_poluentes
+Aplicar técnicas de análise exploratória utilizando Python e Pandas
+
+Identificar estados com maior e menor emissão de gases poluentes
+
+Analisar tendências ao longo do tempo (crescimento, redução ou estabilidade)
+
+Gerar insights baseados em dados reais e documentar todo o processo
+
+🧠 Perguntas Respondidas
+
+Quais estados apresentam os maiores níveis de emissão de gases poluentes?
+
+Como as emissões evoluíram ao longo dos anos até 2021?
+
+Existem padrões regionais relevantes entre os estados brasileiros?
+
+🛠️ Tecnologias Utilizadas
+
+Python
+
+Pandas – manipulação e análise de dados
+
+Jupyter Notebook – ambiente interativo de análise
+
+Matplotlib / Seaborn – visualização de dados (se aplicável)
+
+📊 Metodologia
+
+Coleta dos dados a partir da plataforma SEEG
+
+Limpeza e tratamento dos dados (valores ausentes, padronização)
+
+Análise exploratória (EDA) com estatísticas descritivas
+
+Visualização dos dados para identificação de padrões e tendências
+
+Interpretação dos resultados e geração de insights
+
+📈 Principais Resultados
+
+Identificação dos estados com maior concentração de emissões
+
+Comparação temporal das emissões ao longo dos anos
+
+Observação de tendências de crescimento ou redução em determinadas regiões
+
+Geração de hipóteses para estudos ambientais e análises futuras
+
+📂 Estrutura do Repositório
+analise_gases_poluentes/
 │
-├── PANDAS2.ipynb ← Notebook principal com a análise completa
-├── README.md ← Este arquivo
-└── LICENSE ← Licença do projeto
+├── PANDAS2.ipynb   # Notebook principal com a análise completa
+├── README.md       # Documentação do projeto
+└── LICENSE         # Licença CC0 1.0
+
+▶️ Como Executar o Projeto
+
+Clone o repositório:
+
+git clone https://github.com/JoseGoulartt/analise_gases_poluentes.git
 
 
-## Como Utilizar  
-1. Clone o repositório:
+Acesse a pasta do projeto e abra o notebook:
 
-2. Acesse a pasta do projeto:
-   
-   git clone https://github.com/JoseGoulartt/analise_gases_poluentes.git
-   
-3. Abra o notebook em um ambiente Jupyter, por exemplo:
+jupyter notebook PANDAS2.ipynb
 
-  jupyter notebook PANDAS2.ipynb
 
-4. Execute as células para ver o carregamento dos dados, tratamento, análise exploratória e visualizações
+Execute as células para visualizar o carregamento, tratamento, análise e visualizações dos dados.
 
-Resultados Esperados:
+🗂️ Fonte dos Dados
 
-  Relatórios visuais da emissão de gases por estado e por ano.
+Os dados foram obtidos do SEEG – Sistema de Estimativas de Emissões de Gases de Efeito Estufa, principal plataforma independente de monitoramento de emissões no Brasil.
 
-  Identificação de estados com maior/menor emissão.
+🔗 https://seeg.eco.br/
 
-  Tendências ao longo do tempo (aumento, redução ou estabilidade).
+🚀 Próximos Passos (Evoluções Futuras)
 
-  Possíveis hipóteses a partir dos dados observados.
+Inclusão de dashboards interativos
 
-Base de Dados retirada da plataforma SEEG.
+Análise por setor econômico
 
-O SEEG é a principal plataforma independente de monitoramento de emissões de gases de efeito estufa do Brasil. Oferece estimativas anuais para todos os setores da economia, apoiando políticas públicas de mitigação e garantindo transparência à sociedade sobre as trajetórias de redução de emissões do país.
+Integração com Power BI
 
-Link: https://www.sieg.com/?utm_source=google&utm_medium=cpc&utm_campaign=institucional_sieg_search&utm_content=507193632169&utm_term=sieg&gad_source=1&gad_campaignid=12566662737&gbraid=0AAAAADdDcDDXAfuhIJQWYXTnS_sZekUY5&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlD6AAdvBjjl3E6b3ASNQ0GXm_W7YHIvigPxJOn1wPW8Nw6O0UCHtjcaApVKEALw_wcB](https://seeg.eco.br/
+Automatização do pipeline de dados
 
-Contato
+👤 Autor
 
 José Goulart
-Porto Alegre, RS, Brasil
+Analista de Dados Júnior
 
+📍 Salvador – BA
+🔗 GitHub: https://github.com/JoseGoulartt
 

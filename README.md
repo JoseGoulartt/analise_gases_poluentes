@@ -94,11 +94,11 @@ Integração com Power BI
 
 Automatização do pipeline de dados
 
-👤 Autor
+## 👤 Autor
 
-José Goulart
-Analista de Dados Júnior
+José Goulart  
+📊 Cientista de Dados em formação | Python | Pandas | Análise de Dados  
 
-📍 Salvador – BA
+📍 Salvador – BA  
 🔗 GitHub: https://github.com/JoseGoulartt
 
